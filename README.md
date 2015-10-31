@@ -8,8 +8,10 @@ Plugins
 
 ### Plugins: Authentication
 
+-----
 
 ### Plugins: Version Control
+
 
 #### Github
 
@@ -19,6 +21,7 @@ Plugins
 
 1. [Building github pull requests with jenkins](http://www.theguild.nl/building-github-pull-requests-with-jenkins)
 
+------
 
 ### Plugins: Pipeline
 
@@ -33,6 +36,7 @@ Plugins
 - [Build flow jenkin plugin](http://www.lordofthejars.com/2012/08/build-flow-jenkins-plugin.html)
 - [Tutorial using the jenkins Job DSL](https://github.com/jenkinsci/job-dsl-plugin/wiki/Tutorial---Using-the-Jenkins-Job-DSL)
 
+------
 
 ### Plugins: Docker
 
@@ -45,3 +49,11 @@ Plugins
  
 - [Using docker as a jenkins cloud provider](http://www.nuxeo.com/blog/docker-jenkins-cloud-provider/)
 - [Jenkins+Docker=Awesome CI](http://www.theguild.nl/jenkins-docker-awesome-ci)
+
+-------
+
+
+Please contribute
+=========
+
+Feel free to send Pull Request to extend this list. Lets have awesome list for jenkins as well. 
