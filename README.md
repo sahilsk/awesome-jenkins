@@ -53,6 +53,7 @@ Plugins
 5. [Docker traceability plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Traceability)
 6. [Docker workflow plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Workflow+Plugin)
 7. [Docker Build and Publish plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Build+and+Publish+plugin)
+8. [Docker custom build environment plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Custom+Build+Environment+Plugin)
 
 #### Tutorials and Articles
  
