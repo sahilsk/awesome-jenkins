@@ -28,6 +28,12 @@ Plugins
 1. [The Job DSL plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin)
 	- https://github.com/jenkinsci/job-dsl-plugin
 2. [The Build Flow plugin for Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Build+Flow+Plugin)
+3. [Workflow Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Workflow+Plugin)
+
+
+#### Tutorials and Articles
+
+- [Orchestrating Workflows with Jenkins and Docker](https://www.cloudbees.com/node/27446)
 
 
 #### Tutorials and Articles
@@ -43,12 +49,20 @@ Plugins
 1. [Docker plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Plugin)
 2. [Docker build step plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+build+step+plugin)
 3. [Docker Slave plugin](https://wiki.jenkins-ci.org/display/JENKINS/Docker+Slaves+Plugin)
-
+4. [Docker hub notificaton plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Hub+Notification)
+5. [Docker traceability plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Traceability)
+6. [Docker workflow plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Workflow+Plugin)
+7. [Docker Build and Publish plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Build+and+Publish+plugin)
 
 #### Tutorials and Articles
  
 - [Using docker as a jenkins cloud provider](http://www.nuxeo.com/blog/docker-jenkins-cloud-provider/)
 - [Jenkins+Docker=Awesome CI](http://www.theguild.nl/jenkins-docker-awesome-ci)
+- [Triggering Docker pipelines with Jenkins](https://www.cloudbees.com/node/27416)
+- [Traceability of Docker Images and Containers in Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Traceability)
+- [Orchestrating Workflows with Jenkins and Docker](https://www.cloudbees.com/node/27446)
+- [Templating Jenkins Build Environments with Docker Containers](https://www.cloudbees.com/node/27411)
+- [Automating application releases with Docker](https://www.cloudbees.com/node/27431)
 
 -------
 
