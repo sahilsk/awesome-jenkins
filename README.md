@@ -57,6 +57,7 @@ Plugins
 8. [Docker custom build environment plugin](https://wiki.jenkins-ci.org/display/JENKINS/CloudBees+Docker+Custom+Build+Environment+Plugin)
 9. [Spotify docker-maven-plugin](https://github.com/spotify/docker-maven-plugin)
 10. [maven-git-commit-id-plugin](https://github.com/ktoso/maven-git-commit-id-plugin)
+11. [Jenkin Docker Swarm -Slave on demand](https://github.com/jenkinsci/swarm-plugin)
 
 #### Tutorials and Articles
  
