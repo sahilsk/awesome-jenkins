@@ -16,6 +16,7 @@ Plugins
 #### Github
 
 1. [Github pull request builder plugin](https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin)
+2. [Leeroy: Jenkins integration with GitHub pull requests](https://github.com/docker/leeroy)
 
 #### Tutorial & Articles
 
