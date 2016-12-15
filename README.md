@@ -71,6 +71,17 @@ Plugins
 
 -------
 
+Groovy Scripts
+==============
+
+Awesome locations to find groovy scripts
+
+- [Jenkins Wiki: Jenkins Script Console](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+Script+Console)
+- [Github: jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts/tree/master/scriptler)
+- [Github: infOpen/ansible-role-jenkins](https://github.com/infOpen/ansible-role-jenkins/tree/master/files/groovy_scripts)
+- [Github: amrocketman/jenkins-bootstrap-jervis](https://github.com/samrocketman/jenkins-bootstrap-jervis/tree/master/scripts)
+- [Github: jenkinsci/puppet-jenkins](https://github.com/jenkinsci/puppet-jenkins/blob/master/files/puppet_helper.groovy)
+- [pghalliday: Some useful Jenkins Groovy scripts](http://pghalliday.com/jenkins/groovy/sonar/chef/configuration/management/2014/09/21/some-useful-jenkins-groovy-scripts.html)
 
 Please contribute
 =========
