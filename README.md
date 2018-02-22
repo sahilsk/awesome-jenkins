@@ -42,6 +42,7 @@ Plugins
 - [Using the build flow plugin in jenkins](https://www.coveros.com/using-the-build-flow-plugin-in-jenkins/)
 - [Build flow jenkin plugin](http://www.lordofthejars.com/2012/08/build-flow-jenkins-plugin.html)
 - [Tutorial using the jenkins Job DSL](https://github.com/jenkinsci/job-dsl-plugin/wiki/Tutorial---Using-the-Jenkins-Job-DSL)
+- [Curated list of jenkins resources](https://hackr.io/tutorials/learn-jenkins)
 
 ------
 
@@ -68,6 +69,7 @@ Plugins
 - [Orchestrating Workflows with Jenkins and Docker](https://www.cloudbees.com/node/27446)
 - [Templating Jenkins Build Environments with Docker Containers](https://www.cloudbees.com/node/27411)
 - [Automating application releases with Docker](https://www.cloudbees.com/node/27431)
+- [Curated List of Docker Resources](https://hackr.io/tutorials/learn-docker)
 
 -------
 
